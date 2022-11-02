@@ -17,4 +17,5 @@
 -   revert: 撤回修改，慎用
 -   merge: 合并分支
 
+## 项目说明
 - myPromise 手写promise
